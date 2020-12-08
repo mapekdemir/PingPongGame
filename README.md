@@ -27,6 +27,7 @@
 
 * [PingPongGame 1.0]()
   * [ScreenShots]()
+  * [How to play]()
 
 
 
@@ -40,3 +41,5 @@ The logic of the game is that the player who cannot catch the ball loses points.
 ### ScreenShots
 
 <img src="https://raw.githubusercontent.com/mapekdemir/PingPongGame/main/PingPongGame1.0/ScreenShot/ScreenShot1.jpg" width="300" height="224"><img src="https://raw.githubusercontent.com/mapekdemir/PingPongGame/main/PingPongGame1.0/ScreenShot/ScreenShot2.jpg" width="300" height="224">
+
+##
