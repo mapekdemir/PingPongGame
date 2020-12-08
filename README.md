@@ -42,4 +42,12 @@ The logic of the game is that the player who cannot catch the ball loses points.
 
 <img src="https://raw.githubusercontent.com/mapekdemir/PingPongGame/main/PingPongGame1.0/ScreenShot/ScreenShot1.jpg" width="300" height="224"><img src="https://raw.githubusercontent.com/mapekdemir/PingPongGame/main/PingPongGame1.0/ScreenShot/ScreenShot2.jpg" width="300" height="224">
 
-##
+<h2 style="color:Green;text-shadow: 3px 4px 4px rgba(0, 250, 70, 0.7)"> Contact </h2>
+
+[<img align="left" alt="iletisim | Telegram" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111708.svg" />][Telegram]
+[<img align="left" alt="iletisim | Instagram" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384015.svg" />][Instagram]
+[<img align="left" alt="iletisim | Twitter" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384033.svg" />][Twitter]
+
+[Telegram]: https://www.t.me/mapekdemir
+[Instagram]: https://instagram.com/mapekdemir
+[Twitter]: https://twitter.com/mapekdemir
