@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/mapekdemir/PingPongGame">
-    <img src="/Icon.png" alt="Logo" width="100" >
+    <img src="/logo.png" alt="Logo" width="100" >
   </a>
 
   <h3 align="center">Ping Pong Game</h3>
