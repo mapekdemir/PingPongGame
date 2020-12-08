@@ -37,4 +37,4 @@
 
 ### ScreenShots
 
-<img src="https://raw.githubusercontent.com/mapekdemir/PingPongGame/main/PingPongGame1.0/ScreenShot/ScreenShot1.jpg" width="300" height="224"><img src="ScreenShot2.jpg" width="100" height="75">
+<img src="https://raw.githubusercontent.com/mapekdemir/PingPongGame/main/PingPongGame1.0/ScreenShot/ScreenShot1.jpg" width="300" height="224"><img src="https://raw.githubusercontent.com/mapekdemir/PingPongGame/main/PingPongGame1.0/ScreenShot/ScreenShot2.jpg" width="300" height="224">
