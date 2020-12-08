@@ -35,7 +35,7 @@
 ## PingPongGame 1.0
 
 ### How to play
-Player A moves with "w" "s" keys and player B moves with "↑" "↓" keys.
+Player A moves with "w","s" keys and player B moves with "↑","↓" keys.
 The logic of the game is that the player who cannot catch the ball loses points.
 
 ### ScreenShots
