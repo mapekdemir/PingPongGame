@@ -15,6 +15,7 @@
     <br />
     <br />
     <a href="https://github.com/mapekdemir/PingPongGame/issues">Report Bug</a>
+ | 
     <a href="https://github.com/mapekdemir/PingPongGame/issues">Request Feature</a>
   </p>
 </p>
