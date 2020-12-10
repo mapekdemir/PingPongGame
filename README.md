@@ -53,7 +53,7 @@ The logic of the game is that the player who cannot catch the ball loses points.
 
 [<img align="left" alt="iletisim | Telegram" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111646.svg" />][Telegram]
 [<img align="left" alt="iletisim | Instagram" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" />][Instagram]
-[<img align="left" alt="iletisim | Twitter" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384033.svg" />][Twitter]
+[<img align="left" alt="iletisim | Twitter" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111688.svg" />][Twitter]
 
 [Telegram]: https://www.t.me/mapekdemir
 [Instagram]: https://instagram.com/mapekdemir
