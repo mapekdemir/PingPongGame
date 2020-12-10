@@ -26,8 +26,9 @@
 ## Table of Contents
 
 * [PingPongGame 1.0]()
-  * [ScreenShots]()
   * [How to play]()
+  * [Programming languages ​​used]()
+  * [ScreenShots]()
 * [Contact]()
 
 
