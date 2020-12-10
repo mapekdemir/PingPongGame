@@ -39,6 +39,11 @@
 Player A moves with "w","s" keys and player B moves with "↑","↓" keys.
 The logic of the game is that the player who cannot catch the ball loses points.
 
+### Programming languages ​​used
+<img align="left" alt="python" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/919/919852.svg">
+
+<br>
+
 ### ScreenShots
 
 <img src="https://raw.githubusercontent.com/mapekdemir/PingPongGame/main/PingPongGame1.0/ScreenShot/ScreenShot1.jpg" width="300" height="224"><img src="https://raw.githubusercontent.com/mapekdemir/PingPongGame/main/PingPongGame1.0/ScreenShot/ScreenShot2.jpg" width="300" height="224">
