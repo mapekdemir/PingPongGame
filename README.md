@@ -29,7 +29,7 @@
   * [How to play](#how-to-play)
   * [Programming languages ​​used](#programming-languages-used)
   * [ScreenShots](#screenshots)
-* [Contact](#contact)
+* [Contact](#-contact-)
 
 
 
