@@ -11,7 +11,7 @@
   <p align="center">
     Simple Game With Python
     <br />
-    <a href="#ScreenShots"><strong>Screenshots</strong></a>
+    <a href="#screenshots"><strong>Screenshots</strong></a>
     <br />
     <br />
     <a href="https://github.com/mapekdemir/PingPongGame/issues">Report Bug</a>
