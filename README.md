@@ -27,7 +27,7 @@
 
 * [PingPongGame 1.0](https://github.com/mapekdemir/PingPongGame#pingponggame-10)
   * [How to play](https://github.com/mapekdemir/PingPongGame/blob/main/README.md#how-to-play)
-  * [Programming languages ​​used]()
+  * [Programming languages ​​used](https://github.com/mapekdemir/PingPongGame/blob/main/README.md#programming-languages-used)
   * [ScreenShots]()
 * [Contact]()
 
