@@ -26,7 +26,7 @@
 ## Table of Contents
 
 * [PingPongGame 1.0](https://github.com/mapekdemir/PingPongGame#pingponggame-10)
-  * [How to play]()
+  * [How to play](https://github.com/mapekdemir/PingPongGame/blob/main/README.md#how-to-play)
   * [Programming languages ​​used]()
   * [ScreenShots]()
 * [Contact]()
