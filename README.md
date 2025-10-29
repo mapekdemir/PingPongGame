@@ -10,7 +10,8 @@
 
   <p align="center">
     Simple Game With Python
-    It was made using a similar program.
+    <br />
+    (It was made using a similar program.)
     <br />
     <a href="#screenshots"><strong>Screenshots</strong></a>
     <br />
