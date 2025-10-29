@@ -9,7 +9,7 @@
   <h3 align="center">Ping Pong Game</h3>
 
   <p align="center">
-    Simple Game With Python
+    Simple Game With Python/nIt was made using a similar program.
     <br />
     <a href="#screenshots"><strong>Screenshots</strong></a>
     <br />
